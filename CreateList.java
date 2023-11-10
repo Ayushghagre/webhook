@@ -12,7 +12,7 @@ public class CreateList {
     public Node head = null;  
     public Node tail = null;  
   
-    //This function will add the new node at the end of the list.  
+    
     public void add(int data){  
         //Create new node  
         Node newNode = new Node(data);  
