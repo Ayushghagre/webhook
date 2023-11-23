@@ -14,7 +14,7 @@ public class CreateList {
   
     
     public void add(int data){  
-        //Create new node  
+        
         Node newNode = new Node(data);  
         //Checks if the list is empty.  
         if(head == null) {  
